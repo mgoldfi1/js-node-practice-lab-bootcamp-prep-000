@@ -8,3 +8,4 @@ console.log(name)
 console.log("Name:")
 
 console.log(height)
+console.log("Height:")
